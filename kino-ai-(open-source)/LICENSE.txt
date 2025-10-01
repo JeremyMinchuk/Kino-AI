@@ -1,0 +1,5 @@
+All Rights Reserved
+
+This software and its source code are provided for viewing purposes only. No permission is granted to copy, modify, distribute, or use this code in any way, including in derivative works, without explicit written consent from the copyright holder, Jeremy Minchuk (jeremyminchuk@gmail.com).
+
+Copyright (c) 2025 Jeremy Minchuk. All rights reserved.
